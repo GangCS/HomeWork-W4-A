@@ -10,12 +10,12 @@ The aim of the project was to get to know with:
 ## Q1
 
 We had to build a game where the player operates a spaceship that he can move with his arrow keys in a two-dimensional space, the player can also shoot lasers and destroy enemies.
-the extra tasks we choose were:
-The ship can now be hit by 3 separate attacks before its game over.
-https://github.com/GangCS/HomeWork-W4-A/blob/master/Assets/Scripts/3-collisions/DestroyOnTrigger2D.cs#L12-L37
-The weapons has cooldown to control the fire rate.
-https://github.com/GangCS/HomeWork-W4-A/blob/master/Assets/Scripts/2-spawners/KeyboardSpawner.cs#L31-L36
-The creative task we choose to make was:
+the extra tasks we choose were: <br />
+The ship can now be hit by 3 separate attacks before its game over. <br />
+https://github.com/GangCS/HomeWork-W4-A/blob/master/Assets/Scripts/3-collisions/DestroyOnTrigger2D.cs#L12-L37 <br />
+The weapons has cooldown to control the fire rate.<br />
+https://github.com/GangCS/HomeWork-W4-A/blob/master/Assets/Scripts/2-spawners/KeyboardSpawner.cs#L31-L36 <br />
+The creative task we choose to make was: <br />
 Lava walls that destroy all the objects that touch the walls.
 <pre>
     <code>
