@@ -17,8 +17,7 @@ The weapons has cooldown to control the fire rate.<br />
 https://github.com/GangCS/HomeWork-W4-A/blob/master/Assets/Scripts/2-spawners/KeyboardSpawner.cs#L31-L36 <br />
 The creative task we choose to make was: <br />
 Lava walls that destroy all the objects that touch the walls.
-<pre>
-    <code>
+```C#
     public class WallDestroys : MonoBehaviour
     {
     private void OnTriggerEnter2D(Collider2D other)
@@ -27,8 +26,7 @@ Lava walls that destroy all the objects that touch the walls.
         if (other.tag == "Player")
             SceneManager.LoadScene(1); // Game Over!
     }
-    </code>
-</pre>
+```
 The game can be played by clicking the following link: https://shaharnik.itch.io/homework-w4-a
 
 
